@@ -16,7 +16,19 @@
           "italic": true
         },
         {
-          "text": ") was produced by Natasha D'Amours, Michael MacKenzie, Sarah Freeman, and Xuege Wu. This episode explores the role that timestamping plays in shaping the preservation and curation of literary sound."
+          "text": ") was produced by Natasha D'Amours, Michael MacKenzie, Sarah Freeman, and Xuege Wu. This episode explores the role that timestamping plays in shaping the preservation and curation of literary sound. An annotated version of the episode with additional comments, citations, and context may be listened to "
+        },
+        {
+          "type": "link",
+          "url": "https://ndamours14.github.io/sound-and-seconds/pages/sound-and-seconds/",
+          "children": [
+            {
+              "text": "here"
+            }
+          ]
+        },
+        {
+          "text": "."
         }
       ]
     },
@@ -32,7 +44,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The episode may be listened to and downloaded from "
+          "text": "(The episode may also be listened to and downloaded from "
         },
         {
           "text": "The SpokenWeb Podcast",
@@ -46,37 +58,7 @@
           "link": "https://spokenweb.ca/podcast/episodes/sound-seconds/"
         },
         {
-          "text": "."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "An "
-        },
-        {
-          "text": "annotated version of the episode",
-          "bold": true
-        },
-        {
-          "text": " with additional comments, citations, and context may be listened to "
-        },
-        {
-          "text": "here",
-          "link": "https://ndamours14.github.io/sound-and-seconds/pages/sound-and-seconds/"
-        },
-        {
-          "text": "."
+          "text": ".)"
         }
       ]
     }
@@ -89,6 +71,6 @@
   "slug": "sound-and-seconds-a-roundtable-on-timestampi",
   "created_at": "2025-07-07T22:27:52.506Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-07-07T22:34:04.446Z",
+  "updated_at": "2025-07-07T22:37:21.077Z",
   "updated_by": "ndamours14"
 }
