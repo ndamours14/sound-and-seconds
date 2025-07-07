@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "ndamours14",
+    "is_private": false,
+    "title": "Sound and Seconds: A Roundtable on Timestamping for Literary Archives",
+    "description": "Sound and Seconds: A Roundtable on Timestamping for Literary Archives (season 6, episode 9 of The SpokenWeb Podcast) was produced by Natasha D'Amours, Michael MacKenzie, Sarah Freeman, and Xuege Wu. This episode explores the role that timestamping plays in shaping the preservation and curation of literary sound.",
+    "language": "en",
+    "slug": "sound-and-seconds",
+    "creator": "ndamours14",
+    "authors": "Natasha D'Amours",
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-07-07T22:18:04.328Z",
+    "updated_at": "2025-07-07T22:18:04.328Z"
   }
 }
