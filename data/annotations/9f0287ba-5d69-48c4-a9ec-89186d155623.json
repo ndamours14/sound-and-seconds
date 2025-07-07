@@ -1,1 +1,224 @@
-{"annotations":[{"start_time":19,"end_time":127,"annotation":[{"type":"paragraph","children":[{"text":"Introduction by SpokenWeb Podcast hosts Hannah McGregor and Katherine McLeod."}]}],"tags":[{"tag":"Hannah McGregor","category":"Speakers"},{"tag":"Katherine McLeod","category":"Speakers"}],"uuid":"6a19957c-cd5c-428e-a565-8c841dbb6d35"},{"start_time":138,"end_time":293,"annotation":[{"type":"paragraph","children":[{"text":"Introduction by episode host Sarah Freeman."}]}],"tags":[{"tag":"Sarah Freeman","category":"Speakers"}],"uuid":"ee1e44ad-1433-44b6-be2c-b41171e8f0f3"},{"start_time":296,"end_time":322,"annotation":[{"type":"paragraph","children":[{"text":"Introduction by roundtable host Michael MacKenzie."}]}],"tags":[{"tag":"Michael MacKenzie","category":"Speakers"}],"uuid":"4e16c729-e206-4507-9f20-7979bba4b560"},{"start_time":326,"end_time":411,"annotation":[{"type":"paragraph","children":[{"text":"Michael MacKenzie poses first question: \"Attempt a definition for timestamping, and explain what timestamping is or has been for you, and perhaps a defining moment for when you started to think about it seriously?\""}]}],"tags":[{"tag":"Michael MacKenzie","category":"Speakers"},{"tag":"First Question","category":"Segments"}],"uuid":"868a280e-a767-4874-9d26-2942ca7b96be"},{"start_time":415,"end_time":501,"annotation":[{"type":"paragraph","children":[{"text":"Jason Camlot answers first question."}]}],"tags":[{"tag":"Jason Camlot","category":"Speakers"},{"tag":"First Question","category":"Segments"}],"uuid":"a7bf894a-2d0f-4cea-9f7b-9114a83d1b8b"},{"start_time":501,"end_time":545,"annotation":[{"type":"paragraph","children":[{"text":"Sarah Freeman provides additional context about Hayden White. (âHayden White.â Wikipedia, Wikimedia Foundation, 5 Mar. 2025, en.wikipedia.org/wiki/Hayden_White.)"}]}],"tags":[{"tag":"Sarah Freeman","category":"Speakers"},{"category":"References","tag":"Hayden White"},{"tag":"Additional Context","category":"Segments"}],"uuid":"0be26a6b-40d0-4a58-8ee3-e1cecf571ad4"},{"start_time":545,"end_time":572,"annotation":[{"type":"paragraph","children":[{"text":"Jason Camlot continues to answer first question."}]}],"tags":[{"tag":"Jason Camlot","category":"Speakers"},{"tag":"First Question","category":"Segments"}],"uuid":"cf258688-4ce7-4bbe-a274-615610b3db60"},{"start_time":573,"end_time":658,"annotation":[{"type":"paragraph","children":[{"text":"Tanya Clement answers first question."}]}],"tags":[{"tag":"Tanya Clement","category":"Speakers"}],"uuid":"66d3f654-2c9b-4c57-a802-5643eacffdce"},{"start_time":658,"end_time":770,"annotation":[{"type":"paragraph","children":[{"text":"Mike O'Driscoll answers first question."}]}],"tags":[{"tag":"Mike O'Driscoll","category":"Speakers"}],"uuid":"21a90fae-29d9-4473-b1bc-29335c06aabc"}],"set":"Default","event_id":"682fb029-e761-4cda-a0da-4e8e94a3acea","source_id":"2ef4c593-d3e1-48ca-ba4c-0d7c034a0ece"}
+{
+  "annotations": [
+    {
+      "start_time": 19,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction by SpokenWeb Podcast hosts Hannah McGregor and Katherine McLeod."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hannah McGregor",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Katherine McLeod",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "6a19957c-cd5c-428e-a565-8c841dbb6d35"
+    },
+    {
+      "start_time": 138,
+      "end_time": 293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction by episode host Sarah Freeman."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sarah Freeman",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "ee1e44ad-1433-44b6-be2c-b41171e8f0f3"
+    },
+    {
+      "start_time": 296,
+      "end_time": 322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction by roundtable host Michael MacKenzie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Michael MacKenzie",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "4e16c729-e206-4507-9f20-7979bba4b560"
+    },
+    {
+      "start_time": 326,
+      "end_time": 411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Michael MacKenzie poses first question: \"Attempt a definition for timestamping, and explain what timestamping is or has been for you, and perhaps a defining moment for when you started to think about it seriously?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Michael MacKenzie",
+          "category": "Speakers"
+        },
+        {
+          "tag": "First Question",
+          "category": "Segments"
+        }
+      ],
+      "uuid": "868a280e-a767-4874-9d26-2942ca7b96be"
+    },
+    {
+      "start_time": 415,
+      "end_time": 501,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jason Camlot answers first question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Speakers"
+        },
+        {
+          "tag": "First Question",
+          "category": "Segments"
+        }
+      ],
+      "uuid": "a7bf894a-2d0f-4cea-9f7b-9114a83d1b8b"
+    },
+    {
+      "start_time": 501,
+      "end_time": 545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sarah Freeman provides additional context about Hayden White. (\"Hayden White.\" Wikipedia, Wikimedia Foundation, 5 Mar. 2025, en.wikipedia.org/wiki/Hayden_White.)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sarah Freeman",
+          "category": "Speakers"
+        },
+        {
+          "category": "References",
+          "tag": "Hayden White"
+        },
+        {
+          "tag": "Additional Context",
+          "category": "Segments"
+        },
+        {
+          "tag": "First Question",
+          "category": "Segments"
+        }
+      ],
+      "uuid": "0be26a6b-40d0-4a58-8ee3-e1cecf571ad4"
+    },
+    {
+      "start_time": 545,
+      "end_time": 572,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jason Camlot continues to answer first question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Speakers"
+        },
+        {
+          "tag": "First Question",
+          "category": "Segments"
+        }
+      ],
+      "uuid": "cf258688-4ce7-4bbe-a274-615610b3db60"
+    },
+    {
+      "start_time": 573,
+      "end_time": 658,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tanya Clement answers first question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tanya Clement",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "66d3f654-2c9b-4c57-a802-5643eacffdce"
+    },
+    {
+      "start_time": 658,
+      "end_time": 770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mike O'Driscoll answers first question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mike O'Driscoll",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "21a90fae-29d9-4473-b1bc-29335c06aabc"
+    }
+  ],
+  "set": "Default",
+  "event_id": "682fb029-e761-4cda-a0da-4e8e94a3acea",
+  "source_id": "2ef4c593-d3e1-48ca-ba4c-0d7c034a0ece"
+}
