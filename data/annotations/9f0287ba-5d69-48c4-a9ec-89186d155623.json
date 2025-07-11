@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 658,
-      "end_time": 770,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Mike O'Driscoll answers first question."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Mike O'Driscoll",
-          "category": "_uncategorized_"
-        }
-      ],
-      "uuid": "21a90fae-29d9-4473-b1bc-29335c06aabc"
-    },
-    {
       "start_time": 19,
       "end_time": 127,
       "annotation": [
