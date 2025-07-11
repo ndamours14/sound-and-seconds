@@ -1,0 +1,31 @@
+{
+  "audiovisual_files": {
+    "dc5a172e-fd28-406b-8e51-c0429377e978": {
+      "label": "Sound and Seconds Podcast Episode",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://cdn.simplecast.com/audio/28a9da1f-8cca-410c-b5d7-8165a73f9394/episodes/audio/ae6837bb-0fb9-49ac-9461-d3cb833658f7/default_tc.mp3?nocache",
+      "duration": 3421,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Sound and Seconds",
+  "created_at": "2025-07-11T21:52:47.401Z",
+  "created_by": "ndamours14",
+  "updated_at": "2025-07-11T21:52:47.401Z",
+  "updated_by": "ndamours14"
+}
