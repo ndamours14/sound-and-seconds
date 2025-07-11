@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 138,
-      "end_time": 293,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Introduction by episode host Sarah Freeman."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Sarah Freeman",
-          "category": "_uncategorized_"
-        }
-      ],
-      "uuid": "ee1e44ad-1433-44b6-be2c-b41171e8f0f3"
-    },
-    {
       "start_time": 296,
       "end_time": 322,
       "annotation": [
