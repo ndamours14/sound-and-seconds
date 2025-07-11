@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 296,
-      "end_time": 322,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Introduction by roundtable host Michael MacKenzie."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Michael MacKenzie",
-          "category": "_uncategorized_"
-        }
-      ],
-      "uuid": "4e16c729-e206-4507-9f20-7979bba4b560"
-    },
-    {
       "start_time": 326,
       "end_time": 411,
       "annotation": [
