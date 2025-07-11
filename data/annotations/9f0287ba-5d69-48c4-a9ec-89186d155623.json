@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 415,
-      "end_time": 501,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Jason Camlot answers first question."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Jason Camlot",
-          "category": "_uncategorized_"
-        },
-        {
-          "tag": "First Question",
-          "category": "_uncategorized_"
-        }
-      ],
-      "uuid": "a7bf894a-2d0f-4cea-9f7b-9114a83d1b8b"
-    },
-    {
       "start_time": 501,
       "end_time": 545,
       "annotation": [
