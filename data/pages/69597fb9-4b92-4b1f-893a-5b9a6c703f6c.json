@@ -35,10 +35,10 @@
   "created_by": "ndamours14",
   "title": "Sound and Seconds",
   "slug": "sound-and-seconds",
-  "updated_at": "2025-07-07T22:29:56.404Z",
+  "updated_at": "2025-07-11T21:23:39.307Z",
   "updated_by": "ndamours14",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "682fb029-e761-4cda-a0da-4e8e94a3acea"
   },
