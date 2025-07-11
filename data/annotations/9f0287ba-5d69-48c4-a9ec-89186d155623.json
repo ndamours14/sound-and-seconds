@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 545,
-      "end_time": 572,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Jason Camlot continues to answer first question."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Jason Camlot",
-          "category": "_uncategorized_"
-        },
-        {
-          "tag": "First Question",
-          "category": "_uncategorized_"
-        }
-      ],
-      "uuid": "cf258688-4ce7-4bbe-a274-615610b3db60"
-    },
-    {
       "start_time": 573,
       "end_time": 658,
       "annotation": [
