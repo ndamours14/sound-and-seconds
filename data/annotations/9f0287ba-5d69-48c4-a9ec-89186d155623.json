@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 326,
-      "end_time": 411,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Michael MacKenzie poses first question: \"Attempt a definition for timestamping, and explain what timestamping is or has been for you, and perhaps a defining moment for when you started to think about it seriously?\""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Michael MacKenzie",
-          "category": "_uncategorized_"
-        },
-        {
-          "tag": "First Question",
-          "category": "_uncategorized_"
-        }
-      ],
-      "uuid": "868a280e-a767-4874-9d26-2942ca7b96be"
-    },
-    {
       "start_time": 415,
       "end_time": 501,
       "annotation": [
