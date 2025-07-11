@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 19,
-      "end_time": 127,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Introduction by SpokenWeb Podcast hosts Hannah McGregor and Katherine McLeod."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Hannah McGregor",
-          "category": "_uncategorized_"
-        },
-        {
-          "tag": "Katherine McLeod",
-          "category": "_uncategorized_"
-        }
-      ],
-      "uuid": "6a19957c-cd5c-428e-a565-8c841dbb6d35"
-    },
-    {
       "start_time": 138,
       "end_time": 293,
       "annotation": [
