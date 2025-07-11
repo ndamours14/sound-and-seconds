@@ -1,39 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 501,
-      "end_time": 545,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Sarah Freeman provides additional context about Hayden White. (\"Hayden White.\" Wikipedia, Wikimedia Foundation, 5 Mar. 2025, en.wikipedia.org/wiki/Hayden_White.)"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Sarah Freeman",
-          "category": "_uncategorized_"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Hayden White"
-        },
-        {
-          "tag": "Additional Context",
-          "category": "_uncategorized_"
-        },
-        {
-          "tag": "First Question",
-          "category": "_uncategorized_"
-        }
-      ],
-      "uuid": "0be26a6b-40d0-4a58-8ee3-e1cecf571ad4"
-    },
-    {
       "start_time": 545,
       "end_time": 572,
       "annotation": [
