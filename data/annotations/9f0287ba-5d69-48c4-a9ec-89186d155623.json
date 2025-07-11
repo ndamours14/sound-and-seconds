@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 573,
-      "end_time": 658,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Tanya Clement answers first question."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Tanya Clement",
-          "category": "_uncategorized_"
-        }
-      ],
-      "uuid": "66d3f654-2c9b-4c57-a802-5643eacffdce"
-    },
-    {
       "start_time": 658,
       "end_time": 770,
       "annotation": [
