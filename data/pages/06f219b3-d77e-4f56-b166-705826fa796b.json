@@ -4,9 +4,34 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Sound and Seconds: A Roundtable on Timestamping for Literary Archives",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://spokenweb.ca/wp-content/uploads/2025/05/E7-Banner1-1024x341.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "italic": true,
-          "bold": true
+          "bold": true,
+          "text": "Sound and Seconds: A Roundtable on Timestamping for Literary Archives"
         },
         {
           "text": " (season 6, episode 9 of "
@@ -16,19 +41,24 @@
           "italic": true
         },
         {
-          "text": ") was produced by Natasha D'Amours, Michael MacKenzie, Sarah Freeman, and Xuege Wu. This episode explores the role that timestamping plays in shaping the preservation and curation of literary sound. An annotated version of the episode with additional comments, citations, and context may be listened to "
+          "text": ") was produced by Natasha D'Amours, Michael MacKenzie, Sarah Freeman, and Xuege Wu. This episode explores the role that timestamping plays in shaping the preservation and curation of literary sound. "
+        },
+        {
+          "text": "Listen to an annotated version of the episode with additional comments, citations, and context.",
+          "link": "https://ndamours14.github.io/sound-and-seconds/events/sound-and-seconds/"
         },
         {
           "type": "link",
           "url": "https://ndamours14.github.io/sound-and-seconds/pages/sound-and-seconds/",
           "children": [
             {
-              "text": "here"
+              "text": "",
+              "link": "https://ndamours14.github.io/sound-and-seconds/events/sound-and-seconds/"
             }
           ]
         },
         {
-          "text": "."
+          "text": ""
         }
       ]
     },
@@ -61,6 +91,188 @@
           "text": ".)"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        4,
+        2
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Natasha D'Amours, Michael MacKenzie, Sarah Freeman, Xuege Wu",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-four",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Natasha D’Amours",
+                  "bold": true
+                },
+                {
+                  "text": " is a Master of Library and Information Studies student at the University of Alberta. She has a Bachelor of Fine Arts in Writing from the University of Victoria, with a minor in Digital and Interactive Media in the Arts. Her past experience has ranged from virtual reality film production to printing and bookbinding, and she is currently working with rare books and special collections."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Sarah Freeman",
+                  "bold": true
+                },
+                {
+                  "text": " is an undergraduate student at the University of Alberta. She is currently pursuing an Honors degree in English. Some of her interests include media studies, relational ethics, and research-creation. She’s spent two years as a research assistant with SpokenWeb, during which she’s created timestamps, photographed tapes, and conducted archival research."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Michael MacKenzie",
+                  "bold": true
+                },
+                {
+                  "text": " is a PhD Student in English and Film Studies at the University of Alberta, studying the circulation of desires for neotenous embodiment and physical growth resistance in youth across literature, film, video games, and medical discourses. His interests are in psychoanalysis, Do-It-Yourself trans* and queer studies, and speculative fiction."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Xuege Wu",
+                  "bold": true
+                },
+                {
+                  "text": " is a second-year MA student in the Department of English and Film Studies at the University of Alberta. As a Graduate Research Assistant for SpokenWeb UAlberta since September 2023, she timestamps archival audio recordings, conducts research, and develops promotional materials for the local listening event SpokenWest. Beyond her work on literary sounds, Xuege’s research also explores early modern theatre, and she is currently writing her MA thesis, Ecology of Ireland in Shakespeare’s Plays."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://spokenweb.ca/wp-content/uploads/2025/05/Picture-of-the-Producers-Natasha-Sarah-Michael-Xuege-400x400.jpg",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Sound and Seconds: A Roundtable on Timestamping for Literary Archives",
@@ -71,6 +283,6 @@
   "slug": "sound-and-seconds-a-roundtable-on-timestampi",
   "created_at": "2025-07-07T22:27:52.506Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-07-11T16:59:56.219Z",
+  "updated_at": "2025-08-05T16:32:06.119Z",
   "updated_by": "ndamours14"
 }
