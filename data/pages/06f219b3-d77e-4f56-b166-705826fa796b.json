@@ -8,12 +8,18 @@
           "bold": true,
           "text": "Sound and Seconds: A Roundtable on Timestamping for Literary Archives",
           "textSize": "heading-one"
-        },
-        {
-          "text": "\n "
         }
       ],
       "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "\n \n\n "
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -284,6 +290,6 @@
   "slug": "sound-and-seconds-a-roundtable-on-timestampi",
   "created_at": "2025-07-07T22:27:52.506Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-10-10T14:30:15.599Z",
+  "updated_at": "2025-10-10T14:37:24.532Z",
   "updated_by": "ndamours14"
 }
